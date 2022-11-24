@@ -20,4 +20,4 @@ int Exponentiation(int num1, int num2)      // как я понял, то нел
 }
 
 int result = Exponentiation(numberA, numberB);
-Console.Write(result);
+Console.Write($"{numberA}, {numberB} -> {result}");
